@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @vaibhav975
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
 - 📫 How to reach me vaibhavvishal277@gmail.com 
 
 <!---
